@@ -25,6 +25,7 @@ github_username:  dttngan91
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: pretty
 plugins:
   - jekyll-feed
 # Exclude from processing.
