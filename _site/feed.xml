@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-05T15:44:12+07:00</updated><id>http://localhost:4000/</id><entry><title type="html">First Project</title><link href="http://localhost:4000/2014/10/10/firstproject.html" rel="alternate" type="text/html" title="First Project" /><published>2014-10-10T00:00:00+07:00</published><updated>2014-10-10T00:00:00+07:00</updated><id>http://localhost:4000/2014/10/10/firstproject</id><content type="html" xml:base="http://localhost:4000/2014/10/10/firstproject.html">&lt;p&gt;Post excerpt goes here. The first paragraph will be shown only, along with a read more button which links to the full post. Perfect for placing project descriptions or to actually blog about something!&lt;/p&gt;
-
-&lt;h4 id=&quot;header-1&quot;&gt;Header 1&lt;/h4&gt;
-
-&lt;p&gt;Content Here.&lt;/p&gt;
-
-&lt;p&gt;More Content.&lt;/p&gt;</content><author><name></name></author><summary type="html">Post excerpt goes here. The first paragraph will be shown only, along with a read more button which links to the full post. Perfect for placing project descriptions or to actually blog about something!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/folder-name/image-name.png" /></entry></feed>
