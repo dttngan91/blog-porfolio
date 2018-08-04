@@ -1,0 +1,4 @@
+- List items
+- Pizza 
+- :pizza:
+- Weather's nice huh
