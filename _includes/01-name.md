@@ -2,7 +2,7 @@
 ## Senior Game Developer 
 I am working in game industry because I am in love with making things beautiful interactive in different ways. 
 My current attention is gaming graphics and artificial intelligence in game.  
-* 4 years of experience in gaming industry 
+* 5 years of experience in gaming industry 
 * Master degree in Computer Game Technology (MRES) in the United Kingdom 
 * Honor program (Rank 5th), Bachelor of Engineer in Computer Science at HCMC, Vietnam 
 
