@@ -1,5 +1,5 @@
 # Ngan Do 
-![Me](https://drive.google.com/file/d/1NbSMp10KefT6V9ot9Q3yzPADUI4kdu48/view?usp=sharing)
+![Me](avatar_official.png)
 ## Senior Game Developer 
 [Linkedin](https://www.linkedin.com/in/ngân-đỗ-thị-tuyết-9381a235), 
 
