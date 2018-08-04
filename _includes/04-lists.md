@@ -16,6 +16,9 @@ Working project titles:
         - Work based on Unity 
     * [PH version](http://disney.xurpasportal.com/disneycrossyroadph.apk) - partner with Globe Philipins (leader)
         - Subscription mode 
+* [Dragon Project](https://play.google.com/store/apps/details?id=net.gogame.dragon&hl=en) Server developer 
+    * GMTool (php)
+    * Clan Chat (nodejs)
 
 
 # Freelancer 
