@@ -1,6 +1,10 @@
 # Ngan Do 
 ![Me](avatar_official.png)
 ## Senior Game Developer 
+email: "dttngan91@gmail.com"
+  facebook: ngan.tuyet.3
+  github: dttngan91 
+  twitter: ngando_foxy
 [Linkedin](https://www.linkedin.com/in/ngân-đỗ-thị-tuyết-9381a235), 
 
 I am working in game industry because I am in love with making things beautiful interactive in different ways. 
