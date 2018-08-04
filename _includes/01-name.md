@@ -1,11 +1,12 @@
 # Ngan Do 
 ![Me](avatar_official.png)
 ## Senior Game Developer 
-email: "dttngan91@gmail.com"
-  facebook: ngan.tuyet.3
-  github: dttngan91 
-  twitter: ngando_foxy
-[Linkedin](https://www.linkedin.com/in/ngân-đỗ-thị-tuyết-9381a235), 
+[![Email](email.jpeg)](mailto:dttngan91@gmail.com)
+[![Facebook](facebook.png)](https://www.facebook.com/ngan.tuyet.3)
+[![Twitter](twitter.png)](@ngando_foxy)
+[![Linkedin]()](https://www.linkedin.com/in/ngân-đỗ-thị-tuyết-9381a235)
+
+[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
 I am working in game industry because I am in love with making things beautiful interactive in different ways. 
 
