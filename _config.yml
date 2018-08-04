@@ -1,6 +1,13 @@
 title: Welcome to my universe!
 theme: jekyll-theme-cayman
-description: [Senior Game Developer] 
+description: Senior Game Developer
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 social-network-links:
   rss: true
   email: "dttngan91@gmail.com"
@@ -8,3 +15,6 @@ social-network-links:
   github: dttngan91 
   twitter: ngando_foxy
 avatar: "avatar_official.png"
+show_downloads: true 
+author:
+  name: Ngan Do 
