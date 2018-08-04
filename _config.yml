@@ -1,4 +1,10 @@
 title: Welcome to my universe!
 theme: jekyll-theme-cayman
 description: [Senior Game Developer] 
-email: dttngan91@gmail.com
+social-network-links:
+  rss: true
+  email: "dttngan91@gmail.com"
+  facebook: ngan.tuyet.3
+  github: dttngan91 
+  twitter: ngando_foxy
+avatar: "avatar_official.png"
