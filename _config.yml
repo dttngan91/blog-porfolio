@@ -1,6 +1,6 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://dttngan91.github.io"
-title: Welcome to my universe!
+title: Ngan Do developer 
 theme: jekyll-theme-cayman
 description: Enjoy game of life!
 social-network-links:
@@ -29,3 +29,7 @@ hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
