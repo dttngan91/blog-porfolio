@@ -2,8 +2,8 @@
 ![Me](avatar_official.png)
 ## Senior Game Developer 
 [![Email](email.png)](mailto:dttngan91@gmail.com)
-[![Facebook](facebook.png)](https://www.facebook.com/ngan.tuyet.3)
-[![Twitter](twitter.png)](https://twitter.com/ngando_foxy)
+[![Facebook](facebookIcon.png)](https://www.facebook.com/ngan.tuyet.3)
+[![Twitter](twitterIcon.png)](https://twitter.com/ngando_foxy)
 [![Linkedin](linkedin.png)](https://www.linkedin.com/in/ngân-đỗ-thị-tuyết-9381a235)
 
 I am working in game industry because I am in love with making things beautiful interactive in different ways. 
