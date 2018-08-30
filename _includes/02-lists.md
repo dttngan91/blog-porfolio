@@ -1,16 +1,16 @@
 # Working Experience 
 ## [goGame Ltd](https://gogame.net/)  
-Working project titles:
+2 years - Working project titles:
 * Sega titles:
     * [Sonic the hedgehog](https://play.google.com/store/apps/details?id=com.sega.sonic1px&hl=en) (team of 2 members) 
-        - Add IAP, Ads on the porting platform of Chisten Whitehead 
-        - Work based java (Android) and objectiveC (iOS)
-    * [Chain chronicle 3](https://play.google.com/store/apps/details?id=com.sega.chainchronicle&hl=en) (leader)
+        - Add IAP, Ads on the porting platform of Christen Whitehead 
+        - Work based Java (Android) and objectiveC (iOS)
+    * [Chain chronicle 3](https://play.google.com/store/apps/details?id=com.sega.chainchronicle&hl=en) (leader of 3 team members)
         - Localization system 
         - Work based on Unity 
-    * Amazon Fire TV 
+    * Amazon Fire TV - Android app - Unpublished project  
 * Disney Crossy Road 
-    * [SEA version](https://play.google.com/store/apps/details?id=net.gogame.disney.crossyroad&hl=en) (leader)
+    * [SEA version](https://play.google.com/store/apps/details?id=net.gogame.disney.crossyroad&hl=en) (leader of 2 team member)
         - Add social fetures (Facebook, Ads, IAP), daily login, built-in leaderboard system, new challenge game mode 
         - Multiplayer mode 
         - Work based on Unity 
@@ -20,7 +20,20 @@ Working project titles:
     * GMTool (php)
     * Clan Chat (nodejs)
 
+## [Seamiq Ltd](http://pixeltigergames.com/) - Now changes to PixelTiger 
+10 months - Working titles 
+* Unpublished prototypes in Unity
+    - Puzzle game
+* [Snaky Lines](https://itunes.apple.com/us/app/snaky-lines/id961898180) (1 memeber)
+    - Unity-based, main developer of game including all features 
 
+## [GlassEgg Ltd](https://www.glassegg.com/)  
+10 months - Working titles 
+* Outsource project for Audatex insurance company (US)
+    - iOS/Android app with Unity embeded scene 
+* Mecha games 
+    - Unity-based, 3D games 
+    
 # Freelancer 
 * Chinesepod: 
     * Mr. Racool prototype // TODO link 
