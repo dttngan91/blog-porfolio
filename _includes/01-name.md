@@ -12,7 +12,7 @@ My current attention is gaming graphics and artificial intelligence in game.
 
 My goal to be fullstack software engineer  
 * 5 years of experience in gaming industry
-* Experience on Unity, Unity plugin including Android (Java) and iOS (ObjectiveC)
+* Experience on Unity, native Android (Java) and iOS (ObjectiveC)
 * (MRES) Master degree in Computer Game Technology at Bournemouth University, United Kingdom 
 * (BEng) Honor program (Rank 5th), Bachelor of Engineer in Computer Science at HCMC, Vietnam 
 
