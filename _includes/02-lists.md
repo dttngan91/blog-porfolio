@@ -44,7 +44,7 @@
     
 # Freelancer 
 * Chinesepod: 
-    * Mr. Racool prototype - [demo]()
+    * Mr. Racool prototype - [demo](https://youtu.be/Fr2PEHvVL9s)
         -Additional tools: Spine 2D skeleton animation, 
     * Chinese learning app prototype - unpublished project 
         -iOS/Android app to learn Chinese lanugage like Duolingo, ChineseSkill 
