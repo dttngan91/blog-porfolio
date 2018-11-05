@@ -25,6 +25,7 @@
     * Optimized Clan Chat (Nodejs)
 * [Disney all-stars] unreleased project
     -Work based on Unity, Photon multiplayer 
+* Amazon Fire TV - an Android application run on Fire box, including Sega games titles 
 
 ## [Seamiq Ltd](http://pixeltigergames.com/) - PixelTiger (now)
 10 months - Working titles 
@@ -45,9 +46,9 @@
 # Freelancer 
 * Chinesepod: 
     * Mr. Racool prototype - [demo](https://youtu.be/Fr2PEHvVL9s)
-        -Additional tools: Spine 2D skeleton animation, 
+        - Additional tools: Spine 2D skeleton animation, 
     * Chinese learning app prototype - unpublished project 
-        -iOS/Android app to learn Chinese lanugage like Duolingo, ChineseSkill 
+        - iOS/Android app to learn Chinese lanugage like Duolingo, ChineseSkill 
 * AR app
     * [Vietjet Skyfun year end party 2017](https://play.google.com/store/apps/details?id=com.vietjetair.vietjetairskyfun&hl=en)
     * [Unilever Management Conference 2018](https://play.google.com/store/apps/details?id=vn.pplus.unilever.conference)
