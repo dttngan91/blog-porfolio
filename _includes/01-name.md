@@ -8,7 +8,7 @@
 
 I am working in game industry because I am in love with making things beautiful interactive in different ways. 
 
-My current attention is gaming graphics and artificial intelligence in game. 
+My current attention is gaming graphics (VR/AR) and artificial intelligence in game. 
 
 My goal to be fullstack software engineer  
 * 5 years of experience in gaming industry
