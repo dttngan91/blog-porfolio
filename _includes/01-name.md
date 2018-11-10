@@ -13,8 +13,8 @@ My current attention is gaming graphics (VR/AR) and artificial intelligence in g
 My goal to be fullstack software engineer  
 * 5 years of experience in gaming industry
 * Experience on Unity, native Android (Java) and iOS (ObjectiveC)
-* (MRES) Master degree in Computer Game Technology at Bournemouth University, United Kingdom 
-* (BEng) Honor program (Rank 5th), Bachelor of Engineer in Computer Science at HCMC, Vietnam 
+* (MRES) Master degree in Computer Game Technology at Bournemouth University, UK
+* (BEng) Honor program (Rank 5th), GPA: 8.52, Bachelor of Engineer in Computer Science at HCMC, Vietnam 
 
 
 
