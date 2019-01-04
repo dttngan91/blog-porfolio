@@ -4,7 +4,7 @@
 
 * Disney Crossy Road 
     * [SEA version](https://play.google.com/store/apps/details?id=net.gogame.disney.crossyroad&hl=en) (leader of 2 team member)
-        - Add social fetures Facebook login and share, Ads, IAP, Achievement, Notification (Firebase Cloud Messaging), Crashlytics, Analysis(Firebase), etc.
+        - Add social features Facebook login and share, Ads, IAP, Achievement, Notification (Firebase Cloud Messaging), Crashlytics, Analysis(Firebase), etc.
         - In-game features: Daily login reward, Built-in leaderboard system, New challenge game mode, Inbox, etc. 
         - RESTful API (JSON)
         - Multiplayer mode using protobuf
@@ -25,7 +25,7 @@
     * Optimized Clan Chat (Nodejs)
 * [Disney all-stars] unreleased project
     -Work based on Unity, Photon multiplayer 
-* Amazon Fire TV - an Android application run on Fire box, including Sega games titles 
+* [Amazon Fire TV Remaster](https://www.amazon.com/dp/B07GT31W8M) - an Android application run on Fire TV box, including Sega games titles 
 
 ## [Seamiq Ltd](http://pixeltigergames.com/) - PixelTiger (now)
 10 months - Working titles 
