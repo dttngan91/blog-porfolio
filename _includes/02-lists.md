@@ -19,13 +19,13 @@
     * [Chain chronicle 3](https://play.google.com/store/apps/details?id=com.sega.chainchronicle&hl=en) (leader of 3 team members)
         - Localization system 
         - Work based on Unity 
-    * Amazon Fire TV - Android app - Unpublished project  
+    * [Amazon Fire TV Remaster](https://www.amazon.com/dp/B07GT31W8M) - an Android application run on Fire TV box, including Sega games titles 
 * [Dragon Project](https://play.google.com/store/apps/details?id=net.gogame.dragon&hl=en) Server developer 
     * GMTool (PHP) : gift code system 
     * Optimized Clan Chat (Nodejs)
 * [Disney all-stars] unreleased project
     -Work based on Unity, Photon multiplayer 
-* [Amazon Fire TV Remaster](https://www.amazon.com/dp/B07GT31W8M) - an Android application run on Fire TV box, including Sega games titles 
+
 
 ## [Seamiq Ltd](http://pixeltigergames.com/) - PixelTiger (now)
 10 months - Working titles 
